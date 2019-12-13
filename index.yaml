@@ -13,5 +13,6 @@ entries:
     sources:
     - https://github.com/miracle152004/harbor-helm/edit/master
     urls:
-    version: 1.9.3
+    version: 1.2.4
+    appversion: 1.9.3
 generated: 2017-09-29T16:47:22.6044312Z
